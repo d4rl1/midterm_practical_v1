@@ -80,7 +80,7 @@ a:focus {
   border: 0;
   border-radius: var(--radius);
   background: var(--color-primary);
-  color: #fff;
+  color: var(--color-text);
   display: flex;
   justify-content: flex-end;
 }
